@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! 👋
+- 🔭 I am currently working mainly on my personal website. I write new blog posts, little proof-of-concept apps, stuff like that.
+- 👯 I’m looking to collaborate on some fun open source projects if you know of any.
+- ⚡ Make sure to visit my website https://cogitovirus.com and to subscribe for any new content!
+
+Thanks for dropping by!
+
+
 
 <!--
 **cogitovirus/cogitovirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
