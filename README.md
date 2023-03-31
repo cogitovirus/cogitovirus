@@ -1,7 +1,7 @@
 ### Hi! 👋
 - 🔭 I am currently working mainly on my personal website. I write about engineering, quality, automation, data science, and other topics I’m interested in.
 - 👯 I’m looking to collaborate on some fun open source projects if you know of any.
-- ⚡ Make sure to visit my website https://cogitovirus.com and to subscribe for any new content!
+- ⚡ Make sure to visit my website https://cogitovirus.com and add yourself to the mailing list!
 
 Thanks for dropping by!
 
