@@ -1,5 +1,5 @@
 ### Hi! 👋
-- 🔭 I am currently working mainly on my personal projects.
+- 🔭 I am currently working on my personal projects.
 - 📚 I write about engineering, AI, quality, data engineering, and other topics I’m interested in.
 - ⚡ Make sure to visit my website https://cogitovirus.com and add yourself to the mailing list (available through Substack space)!
 
