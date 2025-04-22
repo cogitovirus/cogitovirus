@@ -1,7 +1,7 @@
 ### Hi!
-- I am currently working on my personal projects.
-- I also write about engineering, software, and the future of technology, from algorithms to autonomy.
-- Make sure to visit my personal site https://cogitovirus.com and add yourself to the mailing list (available through Substack space)!
+- I am currently working on my super secret personal projects.
+- I also sporadically write about engineering, software, and the future of technology, from algorithms to autonomy.
+- Make sure to visit my personal site https://cogitovirus.com and add yourself to the mailing list (your inbox can handle one more email per year)!
 
 Thanks for dropping by!
 
