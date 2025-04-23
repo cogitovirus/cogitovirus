@@ -1,6 +1,6 @@
 ### Hi!
 - I am currently working on my super secret personal projects.
-- I also sporadically write about engineering, software, and the future of technology, from algorithms to autonomy.
+- I also sporadically write about engineering, software, and other topics I’m currently obsessed with.
 - Make sure to visit my personal website https://cogitovirus.com and add yourself to the mailing list (your inbox can handle one more email per year)!
 
 Thanks for dropping by!
