@@ -1,8 +1,4 @@
-### Hi!
-- I am currently working on [https://rook2root.co](https://github.com/rook2root/)
-- You can also visit my small personal corner at https://cogitovirus.com
-
-Thanks for dropping by!
+### Hi! Thanks for dropping by!
 
 
 
